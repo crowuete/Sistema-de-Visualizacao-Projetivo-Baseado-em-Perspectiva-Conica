@@ -1,1 +1,1 @@
-# Sistema-de-Visualiza-o-Projetivo-Baseado-em-Perspectiva-Conica
+# Sistema-de-Visualizacao-Projetivo-Baseado-em-Perspectiva-Conica
