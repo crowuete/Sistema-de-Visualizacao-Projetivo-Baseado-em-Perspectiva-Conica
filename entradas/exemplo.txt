@@ -1,0 +1,8 @@
+linha 1: Centro de Projeção (Cx Cy Cz)
+linha 2: Ponto 1 do Plano (P1x P1y P1z)
+linha 3: Ponto 2 do Plano (P2x P2y P2z)
+linha 4: Ponto 3 do Plano (P3x P3y P3z)
+linha 5: Número de Vértices (NV)
+linhas 6 a (5+NV): Coordenadas dos Vértices (X Y Z)
+linha (6+NV): Número de Superfícies (NS)
+próximas NS linhas: NVPS idx1 idx2 idx3 ... (número de vértices seguido dos índices)
